@@ -27,7 +27,7 @@ C:\Users\admin\Desktop\hackerNews>python hackernews.py -h
 Linux/OSX
 admin@ubuntu: ~/hackerNews$python hackernews.py --help
 ```
-If the command >Python hackernews.py -h does not work, this might suggest you have multiple instances of Python installed on your device. Try the same command using 'Python3' instead and if issues persist, try [clicking me](https://stackoverflow.com/questions/13596505/python-not-working-in-command-prompt) for more insight (Remember, your Python folders should not start with 2 - but 3 ). 
+If the command >Python hackernews.py -arg (where arg is your desired argument) does not work, this might suggest you have multiple instances of Python installed on your device. Try the same command using 'Python3' instead and if issues persist, try [clicking me](https://stackoverflow.com/questions/13596505/python-not-working-in-command-prompt) for more insight (Remember, your Python folders should not start with 2 - but 3 ). 
 
 If any further help is needed [click me](https://docs.python.org/3/using/windows.html) for Python's official documentation on running within a Windows environment. [click me](https://docs.python-guide.org/starting/install3/linux/) for Python documentation on running within a Linux environment. Or [click me](https://docs.python.org/2/using/mac.html) for Python documentation on running within a OSX environment.
 
