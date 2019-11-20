@@ -38,7 +38,7 @@ If any further help is needed:
 
 
 ## Libraries Used
-- Requests: An HTTP library for Python which allows us to send HTTP/1.1 requests without the need to manually add query strings to URLs, or to form-encode POST data. Used to retrieve website data from [https://news.ycombinator.com/news](https://news.ycombinator.com/news).
+- Requests: An HTTP library for Python which allows us to send HTTP/1.1 requests without the need to manually add query strings to URLs, or to form-encode POST data. Used within my solution to retrieve website data from [Hacker News](https://news.ycombinator.com/news).
 - [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): Functioning as an HTML parser made easy to use due to its Pythonic idioms for iterating, searching, and modifying the parse tree of webpages - saving time during development.
 - Argparse: Python's CLI argument parsing module allows the creation of arguments and argument exceptions.
 - Sys: Provides access to some variables used or maintained by the interpreter and to functions that interact strongly with the interpreter. Used to obtain argument value given by the user when the script is run.
