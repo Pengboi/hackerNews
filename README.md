@@ -11,7 +11,7 @@ Please find below steps on how to get you up and running, with an overview of li
 pip install beautifulsoup4
 pip install requests
 ```
-3. Navigate to the project folder where the 'hackernews.py' script is located using your CLI (examples are shown below - though these may vary)
+3. Navigate to the project folder where the 'hackernews.py' script is located by launching your CLI and using the command 'cd' followed by the dir path to the folder containing your script. (examples are shown below - though these may vary)
 ```bash
 Windows CMD:
 C:\Users\admin>cd C:\Users\admin\Desktop\hackerNews
