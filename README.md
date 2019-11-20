@@ -19,7 +19,7 @@ C:\Users\admin>cd C:\Users\admin\Desktop\hackerNews
 Linux/OSX
 admin@ubuntu: ~$cd /Users/admin/Desktop/hackerNews
 ```
-4. Run the script with Python by calling python followed by the script name 'hackernews.py' and the argument you wish to pass. (Examples shows argument -h / --help which displays arguments the script accepts)
+4. Run the script with Python by calling *'python' followed by the script name 'hackernews.py' and the argument you wish to pass. (Examples shows argument -h / --help which displays arguments the script accepts)
 ```bash
 Windows CMD:
 C:\Users\admin\Desktop\hackerNews>python hackernews.py -h 
@@ -27,7 +27,7 @@ C:\Users\admin\Desktop\hackerNews>python hackernews.py -h
 Linux/OSX
 admin@ubuntu: ~/hackerNews$python hackernews.py --help
 ```
-If the command '>Python hackernews.py -arg' (where arg is your desired argument) does not work, this might suggest you have multiple instances of Python installed on your device. Try the same command using 'Python3' instead and if issues persist, try [clicking me](https://stackoverflow.com/questions/13596505/python-not-working-in-command-prompt) for more insight (Remember, your Python folders should not start with 2 - but 3 ). 
+* *If the command '>Python hackernews.py -arg' (where arg is your desired argument) does not work, this might suggest you have multiple instances of Python installed on your device. Try the same command using 'Python3' instead and if issues persist, try [clicking me](https://stackoverflow.com/questions/13596505/python-not-working-in-command-prompt) for more insight (Remember, your Python folders should not start with 2 - but 3 ).*
 
 If any further help is needed: 
 - [Click me](https://docs.python.org/3/using/windows.html) for Python's official documentation on running within a Windows environment. 
