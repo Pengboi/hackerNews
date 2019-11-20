@@ -5,7 +5,7 @@ Please find below steps on how to get you up and running, with an overview of li
 ## Installation
 
 1. Start by installing [Python3](https://www.python.org/) onto your local machine 
-2. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install 'beautifulsoup4' and 'requests' as shown below
+2. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install 'beautifulsoup4' and 'requests' as shown below (don't worry if an error message is shown when installing requests, most times requests is installed alongside Python.)
 
 ```bash
 pip install beautifulsoup4
