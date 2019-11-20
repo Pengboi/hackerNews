@@ -1,6 +1,6 @@
 # hackernews.py
 
-Please find below steps on how to get you up and running, with an overview of libraries used and why they were employed within the solution. Enjoy!
+Please find below steps on how to get you up and running, with an overview of libraries used and why they were employed within the solution.  This project focuses on taking 'n' amount of articles (where 'n' is determined by user input) from [Hacker News](https://news.ycombinator.com/news) and parsing this data into a valid JSON string. Enjoy!
 
 ## Installation
 
